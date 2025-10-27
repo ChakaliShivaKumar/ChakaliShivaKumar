@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# 👋 Hi, I'm Shiva Kumar Chakali  
+**Full-Stack Developer | DevOps Engineer | Cloud & AI Enthusiast**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-kumar-chakali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel)](https://skchakali.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ChakaliShivaKumar)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🧠 About Me
+- 🎓 **M.S. Computer Science**, University of North Carolina at Charlotte (Aug 2024 – Dec 2025)  
+- 💻 Passionate about building scalable full-stack systems, DevOps automation, and AI-powered solutions.  
+- 🚀 Experienced in enterprise software engineering, cloud deployments, and CI/CD pipelines.  
+- 🤝 Open to collaborating on open-source projects related to **DevOps**, **AI systems**, and **distributed applications**.  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💼 Professional Experience
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🚚 **Full-Stack Software Engineer @ LEZIT Transports** (Remote)  
+*Aug 2024 – Jul 2025*  
+- Engineered a real-time transport booking platform using **React.js**, **Node.js**, and **MongoDB**.  
+- Built secure JWT/OAuth authentication and automated deployments via **GitHub Actions CI/CD**.  
+- Reduced manual SDLC steps by 50% through pipeline automation and modular design.
 
-### `npm test`
+### 💼 **Analyst @ Deloitte USI** (Telangana, India)  
+*Sep 2023 – Jul 2024*  
+- Built **Power BI dashboards** integrated with **SQL Server + Azure Cloud** to automate 40% of reporting.  
+- Improved React component performance by 20% through optimized rendering and testing.  
+- Collaborated in Agile teams driving inclusive innovation and data-driven solutions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ☁️ **DevOps Engineer Intern @ Amazon** (Telangana, India)  
+*Jan 2023 – Jun 2023*  
+- Enhanced **CI/CD pipelines** and reduced deployment toil by 50% using parallel execution.  
+- Implemented secure IAM-based access and AWS CloudFormation infrastructure automation.  
+- Investigated 50+ cloud incidents with observability tools and automated root cause fixes.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧩 Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🔹 [Distributed Log Aggregator – Observability System](https://github.com/ChakaliShivaKumar/Distributed-Log-Aggregator)
+*Node.js | Python | Redis | OpenSearch | Kubernetes | Terraform*  
+- Built a distributed log monitoring system with real-time Next.js dashboards.  
+- Improved debugging speed by 60% through query parsing and index pipelines.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🔹 [NinerConnect – AI-Driven Startup Talent Portal](https://github.com/ChakaliShivaKumar/NinerConnect)
+*React | Express | MongoDB | JWT Auth | AI Matching*  
+- Full-stack hackathon project connecting founders and talent at UNCC.  
+- Led a 4-member team; delivered functional prototype within 72 hours.
 
-### `npm run eject`
+### 🔹 [Portfolio Platform – Developer Showcase](https://skchakali.onrender.com/)
+*React | TypeScript | SCSS | Render Cloud CI/CD*  
+- Built a responsive developer portfolio (Lighthouse 95+ score).  
+- Automated deployment pipeline with Render and GitHub Actions.  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ⚙️ Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Languages:** Python · Java · JavaScript · TypeScript · C++ · SQL  
+**Frontend:** React · Next.js · Redux · Tailwind CSS · Bootstrap  
+**Backend & APIs:** Node.js · Express.js · REST · GraphQL · Microservices  
+**Databases:** MongoDB · MySQL · PostgreSQL · SQL Server · Redis · DynamoDB  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, ECS) · Docker · Kubernetes · Terraform · CI/CD  
+**Data & AI:** TensorFlow · Federated Learning · DQN · SUMO Simulation · Pandas · NumPy  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📖 Publication  
+**A Review on Deep Learning Techniques for Classifying Images and Generating Captions**  
+📚 *Springer Nature, Dec 2023* — [Read Paper](https://link.springer.com/chapter/10.1007/978-981-99-2746-3_54)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🌐 Connect With Me  
+📫 **Email:** [skumarchakali@gmail.com](mailto:skumarchakali@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/shiva-kumar-chakali](https://www.linkedin.com/in/shiva-kumar-chakali)  
+🌍 **Portfolio:** [skchakali.onrender.com](https://skchakali.onrender.com)  
+🐙 **GitHub:** [github.com/ChakaliShivaKumar](https://github.com/ChakaliShivaKumar)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ **"Code with purpose, build with impact."**
