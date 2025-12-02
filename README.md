@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Shiva Kumar Chakali  
 **Full-Stack Developer | DevOps Engineer | Cloud & AI Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-kumar-chakali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shivakumarchakali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel)](https://skchakali.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ChakaliShivaKumar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ShivaKumarChakali)
 
 ---
 
@@ -75,9 +75,9 @@
 
 ## 🌐 Connect With Me  
 📫 **Email:** [skumarchakali@gmail.com](mailto:skumarchakali@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/shiva-kumar-chakali](https://www.linkedin.com/in/shiva-kumar-chakali)  
+💼 **LinkedIn:** [linkedin.com/in/shiva-kumar-chakali](https://www.linkedin.com/in/shivakumarchakali)  
 🌍 **Portfolio:** [skchakali.onrender.com](https://skchakali.onrender.com)  
-🐙 **GitHub:** [github.com/ChakaliShivaKumar](https://github.com/ChakaliShivaKumar)
+🐙 **GitHub:** [github.com/ShivaKumarChakali](https://github.com/ShivaKumarChakali)
 
 ---
 
